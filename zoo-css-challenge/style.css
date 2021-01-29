@@ -143,6 +143,10 @@ border-color: #ff0000;
   color: #f4743b;
 }
 
+.giraffe p:first-of-type {
+  font-size: 125%;
+}
+
 .card {
   display: inline-block;
   background-color: white;
