@@ -113,6 +113,10 @@ footer {
   vertical-align: bottom;
 }
 
+.bears p {
+  margin-bottom: 26px;
+}
+
 .tigers {
   background-color: #0b3c49;
   color: #f0e100;
