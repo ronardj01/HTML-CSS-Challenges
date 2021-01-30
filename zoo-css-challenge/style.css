@@ -29,10 +29,6 @@ section {
   background-color: #f8f0fb;
 }
 
-img {
-  /*border: 5px solid #8075ff;*/
-}
-
 h1,
 h2,
 h3,
@@ -86,7 +82,7 @@ footer {
   border-radius: 50%;
   display: inline-block;
   position: fixed;
-  bottom: 20px;
+  top: 20px;
   right: 20px;
 
   display: flex;
@@ -108,10 +104,6 @@ footer {
   vertical-align: top;
   border: 5px solid #bfc937;
 }
-
-/*.image-container img:first-of-type {
-  vertical-align: bottom;
-}*/
 
 .image-container img:nth-of-type(2) {
 border-color: #ff0000;
