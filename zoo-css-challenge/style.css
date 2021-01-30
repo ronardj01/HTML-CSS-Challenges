@@ -93,6 +93,7 @@ footer {
 
 #badge:hover {
   background-color: yellow;
+  transition: all 1s linear;
 }
 
 #badge p {
