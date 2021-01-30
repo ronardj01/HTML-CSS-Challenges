@@ -222,5 +222,7 @@ border-color: #ff0000;
 /*Programs*/
 
 .programs .card {
-  display: block;
+  display: inline-block;
+  width: 25%;
+  vertical-align:top;
 }
