@@ -147,6 +147,10 @@ border-color: #ff0000;
   font-size: 125%;
 }
 
+.news h2 {
+  text-align: center;
+}
+
 .card {
   display: inline-block;
   background-color: white;
