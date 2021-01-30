@@ -213,6 +213,12 @@ border-color: #ff0000;
   color: #ff7f11;
 }
 
+.membership p {
+  max-width: 70%;
+  margin: auto;
+  margin-bottom: 22px;
+}
+
 /*Programs*/
 
 .programs .card {
