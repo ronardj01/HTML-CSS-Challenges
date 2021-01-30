@@ -226,3 +226,15 @@ border-color: #ff0000;
   width: 25%;
   vertical-align:top;
 }
+
+.programs div:first-of-type button {
+background: red;
+}
+
+.programs div:nth-of-type(2) button {
+  background: #048000;
+}
+
+.programs div:nth-of-type(3) button {
+  background: #d9e62e;
+}
