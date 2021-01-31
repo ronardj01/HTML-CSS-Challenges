@@ -213,11 +213,12 @@ border-color: #ff0000;
 }
 
 /*Programs*/
+.programs {
+  text-align: center;
+}
 
 .programs .card {
-  display: inline-block;
-  width: 25%;
-  vertical-align:top;
+  max-width: 300px;
 }
 
 .programs div:first-of-type button {
